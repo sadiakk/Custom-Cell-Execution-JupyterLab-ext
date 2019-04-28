@@ -1,6 +1,6 @@
 # runcells_ext
 
-an extension im making
+An extension to JupyterLab that will allow users to specify specific cell execution paths.
 
 
 ## Prerequisites
